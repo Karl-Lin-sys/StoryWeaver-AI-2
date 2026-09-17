@@ -1,0 +1,6 @@
+{
+  "name": "StoryWeaver AI",
+  "description": "Upload an image, let AI ghostwrite a story opening, and chat to continue the tale.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
